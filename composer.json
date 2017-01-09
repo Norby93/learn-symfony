@@ -1,0 +1,11 @@
+{
+    
+"require": {
+        
+	"fxp/composer-asset-plugin": "~1.2",
+        
+	"symfony/http-foundation": "^3.2"
+    
+	}
+
+}
